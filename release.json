@@ -1,0 +1,53 @@
+{
+  "version": "1.0.0",
+  "date": "2026-10-22",
+  "title": "AMF Alfa",
+  "counts": {
+    "modules": 6,
+    "questions": 60,
+    "scenarios": 6,
+    "lawCards": 27
+  },
+  "assets": [
+    {
+      "file": "index.html",
+      "bytes": 2435,
+      "sha256": "f5d337cd3405ab65239116f9c323fe851bd6173e604b65a2fd001624473362d7"
+    },
+    {
+      "file": "styles.css",
+      "bytes": 22253,
+      "sha256": "619a8731522dbeeb41f60d9d834d96e8bcb8b0b837daf9655c02827a2dc08019"
+    },
+    {
+      "file": "data.js",
+      "bytes": 29826,
+      "sha256": "c4c5d586744ac8ea538732fa1d293dc0742d606b74845e3293130b56e496761e"
+    },
+    {
+      "file": "questions.js",
+      "bytes": 30914,
+      "sha256": "481ea4b5d708059285ea379f7bb9e524f8b92835638248fff7093c2c3c4ed0c1"
+    },
+    {
+      "file": "app.js",
+      "bytes": 36696,
+      "sha256": "3f6e00125c79a39056df93a023d114610d778126ef15e8946950f8627bbc6ed4"
+    },
+    {
+      "file": "assets/icon.svg",
+      "bytes": 246,
+      "sha256": "518b7dc872f5492914f675ebbc30d5a075a4c4c1972611f6df692baba0a3984c"
+    },
+    {
+      "file": "assets/dialog-torget.png",
+      "bytes": 2680173,
+      "sha256": "2986bf7bb716b30fde51beefa23a17346bf5dc85cba01e14a8fccdf4e83b6429"
+    },
+    {
+      "file": ".nojekyll",
+      "bytes": 1,
+      "sha256": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b"
+    }
+  ]
+}
